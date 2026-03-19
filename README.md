@@ -6,7 +6,7 @@ Esta aplicação extrai, processa e visualiza indicadores de mercado, facilitand
 
 ## Acesse a Aplicação
 O projeto está no ar e pode ser acessado diretamente pelo navegador:
-👉 **[(https://caprnhtgbuqn4bkx6ywx5r.streamlit.app/)]**
+**[(https://caprnhtgbuqn4bkx6ywx5r.streamlit.app/)]**
 
 ## Tecnologias Utilizadas
 * **Python**
